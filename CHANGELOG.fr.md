@@ -1,4 +1,4 @@
-# Changelog
+# Changelog.fr
 
 Toutes les évolutions importantes de TriAliasTB sont documentées dans ce fichier.
 
