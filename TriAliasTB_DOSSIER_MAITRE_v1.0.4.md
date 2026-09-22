@@ -217,6 +217,14 @@ Le moteur de tri validé en v0.6 est désormais figé.
 -   Actualisation automatique de l'état de Thunderbird (2 s).
 -   « Boîtes à trier » remplace « À trier ».
 
+## v1.1 Internationalisation (projet)
+
+-   Interface disponible en français et en anglais.
+-   Un seul code source avec gestion des textes par dictionnaire (LANG / TEXT).
+-   Choix de la langue dans l’application.
+-   Un seul EXE gérant les deux langues.
+-   Mise à jour de la documentation correspondante.
+
 ------------------------------------------------------------------------
 
 # 12. Méthode de développement
