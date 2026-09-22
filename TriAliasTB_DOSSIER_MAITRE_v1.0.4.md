@@ -1,4 +1,4 @@
-# TriAliasTB --- DOSSIER MAÎTRE
+Ah # TriAliasTB --- DOSSIER MAÎTRE
 
 **Version du projet : v1.0.4**
 
@@ -21,7 +21,8 @@
   Détection des profils    Via `profiles.ini`
   Dernier fichier Python   `TriAliasTB_v1.0.4.py`
   Icône officielle         Flèche de tri
-  Prochaine étape          Validation finale puis publication GitHub
+  Publication GitHub       Effectuée
+  Prochaine étape          Publication ToutLibre
 
 Ce document constitue la référence officielle du projet.
 
