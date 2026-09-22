@@ -7,6 +7,12 @@ alphabetically while preserving the original order of mail accounts.
 
 Download **TriAliasTB.exe** from the latest GitHub Release.
 
+## Windows SmartScreen warning
+
+When downloading and launching `TriAliasTB.exe` for the first time, Microsoft Defender SmartScreen may display a warning stating that the application is “unrecognized”.
+
+This warning may appear because the application is new and has not yet built a reputation with Microsoft. To launch TriAliasTB, click **More info**, then **Run anyway**.
+
 ## Features
 
 -   Alphabetical sorting of Thunderbird aliases.
