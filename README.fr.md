@@ -8,6 +8,12 @@ alphabétique, sans modifier l'ordre des boîtes mail.
 Téléchargez **TriAliasTB.exe** depuis la dernière version (Release) du
 dépôt GitHub.
 
+## Avertissement Windows SmartScreen
+
+Lors du premier téléchargement et lancement de `TriAliasTB.exe`, Windows Defender SmartScreen peut afficher un message indiquant que l’application est « non reconnue ».
+
+Cette alerte peut apparaître parce que l’application est nouvelle et n’a pas encore acquis de réputation auprès de Microsoft. Pour lancer TriAliasTB, cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**.
+
 ## Fonctionnalités
 
 -   Tri alphabétique des alias Thunderbird.
