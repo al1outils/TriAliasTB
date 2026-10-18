@@ -9,7 +9,7 @@
 |----------------------------------------|---------------------------------------------------------------------------------------|
 | ---                                    | ---                                                                                   |
 | Dernière version fonctionnelle validée | **v1.0.6**                                                                            |
-| Dernière version publiée               | **v1.0.4**                                                                            |
+| Dernière version publiée               | **v1.0.6**                                                                            |
 | Validation de v1.0.6                   | Confirmée par l’utilisateur sous Windows 10 et Windows 11                             |
 | Moteur de tri                          | Validé depuis v0.6, inchangé dans v1.0.6                                              |
 | Interface graphique                    | Validée ; fenêtre redimensionnable depuis v1.0.6                                      |
@@ -21,9 +21,9 @@
 | Dernier fichier Python                 | `TriAliasTB_v1.0.6.py`                                                                |
 | Icône officielle                       | `TriAliasTB.ico`, version confirmée par l’utilisateur                                 |
 | Fichier final pour les utilisateurs    | Un seul fichier : `TriAliasTB.exe`                                                    |
-| Publication GitHub                     | Release/tag v1.0.4 ; v1.0.6 pas encore publiée à la date du présent document          |
-| Publication ToutLibre                  | Article v1.0.4 publié le 05/10/2026 ; à mettre à jour après publication de v1.0.6     |
-| Prochaine étape                        | Préparer et publier v1.0.6, avec les documents et fichiers de distribution mis à jour |
+| Publication GitHub                     | Release/tag **v1.0.6 publiée** ; v1.0.4 conservée dans l’historique          |
+| Publication ToutLibre                  | Article consacré à la v1.0.6 publié ; présentation à conserver pour cette version     |
+| Prochaine étape                        | Préparer la v1.1 bilingue (français/anglais) à partir de la v1.0.6 |
 Ce document constitue la référence officielle du projet. En cas de contradiction avec une ancienne conversation, il fait foi.
 
 ---
@@ -156,9 +156,9 @@ Fenêtre redimensionnable : l’utilisateur peut l’agrandir ou la réduire, to
 
 ## Version fonctionnelle de référence
 
-**v1.0.6 — validée par l’utilisateur, publication publique à effectuer.**
+**v1.0.6 — version française publiée et figée.**
 
-La version publiée reste v1.0.4 tant que la nouvelle Release n’a pas été créée sur GitHub.
+La Release GitHub v1.0.6 est publiée. La v1.0.4 reste disponible dans l’historique des Releases.
 
 ## Fonctionnalités disponibles
 
@@ -311,13 +311,13 @@ Fichiers à joindre pour reprendre le développement à partir de l’état actu
 
 Message de reprise :
 
-> « Nous reprenons TriAliasTB à partir de la v1.0.6, validée sous Windows 10 22H2 et Windows 11 25H2. La dernière version publiée reste la v1.0.4. Le dossier maître fait foi. »
+> « Nous reprenons TriAliasTB à partir de la v1.0.6 française, publiée et figée, validée sous Windows 10 22H2 et Windows 11 25H2. La prochaine étape est la préparation de la v1.1 bilingue (français et anglais), à partir du code de référence v1.0.6. Le dossier maître fait foi. »
 
 ---
 
 # 14. Publication et documentation
 
-Éléments déjà présents dans le projet public v1.0.4 :
+Éléments présents dans le dépôt GitHub, avec la v1.0.6 française comme version publiée de référence :
 
 - `README.fr.md`
 - `README.md`
@@ -326,8 +326,15 @@ Message de reprise :
 - `.gitignore`
 - Dépôt GitHub : https://github.com/al1outils/TriAliasTB
 - Guides PDF français et anglais sous `docs/`
-- Article ToutLibre publié le 05/10/2026
+- Article ToutLibre consacré à la v1.0.6
 
-Avant la publication de v1.0.6, mettre à jour les documents qui indiquent la version, le contenu de la distribution et les nouvelles fonctionnalités. Ne pas modifier ni remplacer rétroactivement la Release v1.0.4 : créer une nouvelle Release pour v1.0.6.
+**État des publications :**
+
+- **v1.0.6 française :** publiée sur GitHub et conservée comme version de référence. Ne pas modifier ni remplacer ses fichiers.
+- **v1.1 bilingue :** prochaine version à préparer. Elle intégrera le français et l’anglais dans une seule application, avec le français par défaut.
+
+Pour la v1.1, mettre à jour le code source, les fichiers de construction, les guides utilisateurs, le README et les changelogs afin qu’ils correspondent à la nouvelle version et à son contenu.
+
+Sur ToutLibre.com, conserver la présentation de la v1.0.6 et ajouter les nouveautés et améliorations de la v1.1 lorsque celle-ci sera publiée, avec le lien vers sa Release GitHub et les liens directs vers les guides utilisateurs.
 
 Le README doit conserver l’avertissement Microsoft Defender SmartScreen pour une nouvelle application non encore reconnue.
